@@ -1,4 +1,4 @@
-![MasterHead](https://img.freepik.com/free-vector/program-development-banner-set_1284-13739.jpg?w=740&t=st=1673439942~exp=1673440542~hmac=b4d4cc14d3160bde05ef424208bea14b5f7c9a234c47442fb05b0380b5c8a67b)
+![MasterHead](https://img.freepik.com/premium-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg?w=996)
 <h1 align="center">Hi 👋, I'm Md. Jiyauddin</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
