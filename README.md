@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React, Nodejs**
 
-- 💬 Ask me about **MEARN**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **me.mdjiyauddin@gmail.com**
 
